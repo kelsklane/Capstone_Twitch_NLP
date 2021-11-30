@@ -29,7 +29,7 @@ Kim, J. (2019, August 1). Twitch.tv chat log data. Harvard Dataverse. Retrieved 
 Würzburg, K. K. J.-M.-U., Kobs, K., Würzburg, J.-M.-U., Würzburg, A. Z. J.-M.-U., Zehe, A., Würzburg, A. B. J.-M.-U., Bernstetter, A., Würzburg, J. C. J.-M.-U., Chibane, J., Würzburg, J. P. J.-M.-U., Pfister, J., Würzburg, J. T. J.-M.-U., Tritscher, J., Würzburg, A. H. J.-M.-U., Hotho, A., University, S., &amp; Metrics, O. M. V. A. (2020, May 1). Emote-controlled: Obtaining implicit viewer feedback through emote-based sentiment analysis on comments of popular Twitch.tv channels. ACM Transactions on Social Computing. Retrieved November 30, 2021, from https://dl.acm.org/doi/10.1145/3365523. 
 Yosilewitz, A. (2018, August 6). Streamelements analysis on Twitch bullying. Medium. Retrieved November 30, 2021, from https://blog.streamelements.com/streamelements-analysis-on-twitch-bullying-c3f2b2240318. 
 ## Repository Structure
-`
+```
 ├── Images
 │   ├── confusion_matrix.jpg
 │   ├── single_stream.png
@@ -48,4 +48,4 @@ Yosilewitz, A. (2018, August 6). Streamelements analysis on Twitch bullying. Med
 │   ├── Merge_datasets.ipynb
 │   └── Models.ipynb
 └── presentation.pdf
-`
+```
